@@ -1,1 +1,0 @@
-var e=`/lanaa/assets/image-BgoKoOBI.png`;export{e as t};

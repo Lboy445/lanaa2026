@@ -1,0 +1,1 @@
+var e=`/lanaa2026/assets/image-BgoKoOBI.png`;export{e as t};

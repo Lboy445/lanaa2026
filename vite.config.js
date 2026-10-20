@@ -6,7 +6,7 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 import vueDevTools from 'vite-plugin-vue-devtools'
 
 export default defineConfig({
-  base: '/lanaa/',
+  base: '/lanaa2026/',
   plugins: [
     vue(),
     vueJsx(),
